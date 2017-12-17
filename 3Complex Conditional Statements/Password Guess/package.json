@@ -1,0 +1,9 @@
+{
+  "name": "password-guess",
+  "version": "0.0.0",
+  "description": "Password Guess",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

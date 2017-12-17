@@ -1,0 +1,9 @@
+{
+  "name": "speed-info",
+  "version": "0.0.0",
+  "description": "Speed Info",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

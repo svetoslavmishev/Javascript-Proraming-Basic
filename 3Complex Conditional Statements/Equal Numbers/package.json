@@ -1,0 +1,9 @@
+{
+  "name": "equal-numbers",
+  "version": "0.0.0",
+  "description": "Equal Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

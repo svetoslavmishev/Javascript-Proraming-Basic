@@ -1,0 +1,9 @@
+{
+  "name": "time-15-minutes",
+  "version": "0.0.0",
+  "description": "Time+15Minutes",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

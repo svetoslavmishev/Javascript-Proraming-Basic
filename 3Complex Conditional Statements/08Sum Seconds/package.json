@@ -1,0 +1,9 @@
+{
+  "name": "08-sum-seconds",
+  "version": "0.0.0",
+  "description": "08Sum Seconds",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

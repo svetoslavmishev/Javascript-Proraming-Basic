@@ -1,0 +1,9 @@
+{
+  "name": "metric-converter",
+  "version": "0.0.0",
+  "description": "Metric Converter",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

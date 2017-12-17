@@ -1,0 +1,9 @@
+{
+  "name": "number-to-text",
+  "version": "0.0.0",
+  "description": "Number to Text",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}
