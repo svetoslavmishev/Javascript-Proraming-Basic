@@ -1,0 +1,9 @@
+{
+  "name": "test1000days",
+  "version": "0.0.0",
+  "description": "Test1000days",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

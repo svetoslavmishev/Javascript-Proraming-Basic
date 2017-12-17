@@ -1,0 +1,9 @@
+{
+  "name": "03.-greeting-by-name",
+  "version": "0.0.0",
+  "description": "03. Greeting by Name",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}
