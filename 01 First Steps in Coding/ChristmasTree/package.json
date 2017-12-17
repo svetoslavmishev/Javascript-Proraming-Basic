@@ -1,0 +1,9 @@
+{
+  "name": "christmas-tree",
+  "version": "0.0.0",
+  "description": "ChristmasTree",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}

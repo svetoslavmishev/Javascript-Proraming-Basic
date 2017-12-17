@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Sumator</title>
+</head>
+<body>
+    <h1>Calculator</h1>
+    <form>
+        <input type="number" id="num1">
+        <span>+</span>
+        <input type="number" id="num2">
+        <span>=</span>
+        <input type="number" readonly="readonly" id="sumnumbers">
+        <input type="button" onclick="calc()" value="Calculator"/>
+    </form>     
+        <script>
+            function calc() {
+                let firstNumber = Number(document.getElementById("num1").value);
+                let secondNumber = Number(document.getElementById("num2").value);
+                let sumNumbers = firstNumber + secondNumber;
+                console.log(sumNumbers);
+                document.getElementById("sumnumbers").value = sumNumbers;
+            }
+        </script>
+
+
+</body>
+</html>

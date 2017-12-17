@@ -1,0 +1,9 @@
+{
+  "name": "01.-hello-soft-uni",
+  "version": "0.0.0",
+  "description": "01. Hello SoftUni",
+  "main": "app.js",
+  "author": {
+    "name": "LENOVO G500S"
+  }
+}
